@@ -96,7 +96,7 @@
             </div>
             
             <!-- Right Card Text Column -->
-            <div class="bg-white rounded-2xl p-8 md:p-10 shadow-md border border-gray-100/50 space-y-6">
+            <div class="bg-[#E0D5C5] rounded-2xl p-8 md:p-10 shadow-md border border-gray-200/30 space-y-6">
                 <h2 class="text-2xl md:text-3xl font-serif font-bold text-brand-dark leading-tight">The Artisan's Spirit</h2>
                 <p class="text-gray-600 text-sm md:text-base leading-relaxed">
                     Every piece tells a story of dedication, passion, and skill. By supporting our artisans, you help preserve these traditional crafts for future generations and support sustainable livelihoods.
@@ -110,7 +110,7 @@
 
     <!-- "Empowering Artisans" Card Section -->
     <section class="container mx-auto px-6 md:px-12 max-w-6xl py-12">
-        <div class="bg-white rounded-3xl p-8 md:p-12 shadow-lg border border-gray-100/60 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+        <div class="bg-[#E0D5C5] rounded-3xl p-8 md:p-12 shadow-lg border border-gray-200/30 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
             <!-- Left Image Column with Custom Shadow/Offset Backdrop -->
             <div class="lg:col-span-5 flex justify-center lg:justify-start">
                 <div class="relative w-[85%] md:w-[75%] lg:w-full max-w-[340px]">
