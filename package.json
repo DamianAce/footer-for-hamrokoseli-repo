@@ -1,0 +1,13 @@
+{
+  "name": "about-us-frontend",
+  "version": "1.0.0",
+  "description": "Pure frontend static version of TJ Hotel About Us page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.0",
+    "tailwindcss": "^4.3.0"
+  }
+}
