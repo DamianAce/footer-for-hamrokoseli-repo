@@ -46,7 +46,7 @@
     <?php include('header.php'); ?>
 
     <!-- Hero Section (Full-Width, Dark & Immersive) -->
-    <section class="relative h-[65vh] min-h-[480px] w-full flex items-center justify-start bg-cover bg-center overflow-hidden" style="background-image: url('1st image.png');">
+    <section class="relative h-[65vh] min-h-[480px] w-full flex items-center justify-start bg-cover bg-center overflow-hidden" style="background-image: url('Assets/1st image.png');">
         <!-- Dark overlay with warm copper tone tint -->
         <div class="absolute inset-0 bg-gradient-to-r from-black/80 via-black/60 to-transparent"></div>
         
@@ -80,7 +80,7 @@
             <!-- Right Image Column (Landscape) -->
             <div class="relative group">
                 <div class="absolute -inset-1 bg-brand-primary/10 rounded-2xl blur-sm transition duration-500 group-hover:bg-brand-primary/20"></div>
-                <img src="2nd image.png" 
+                <img src="Assets/2nd image.png" 
                      class="relative w-full h-[320px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-[1.01]" 
                      alt="Traditional Weaving Loom">
             </div>
@@ -91,7 +91,7 @@
             <!-- Left Image Column (Landscape of Clay Pots) -->
             <div class="relative group order-last md:order-first">
                 <div class="absolute -inset-1 bg-brand-primary/10 rounded-2xl blur-sm transition duration-500 group-hover:bg-brand-primary/20"></div>
-                <img src="3rd image handmade pots.png" 
+                <img src="Assets/3rd image handmade pots.png" 
                      class="relative w-full h-[320px] object-cover rounded-2xl shadow-lg transform transition duration-500 hover:scale-[1.01]" 
                      alt="Handmade Clay Pots">
             </div>
@@ -118,7 +118,7 @@
                     <!-- Creative offset backdrop element -->
                     <div class="absolute bottom-[-15px] right-[-15px] w-full h-full bg-[#5c4a43] rounded-2xl z-0"></div>
                     <!-- Main Image -->
-                    <img src="4th image.png" 
+                    <img src="Assets/4th image.png" 
                          class="relative z-10 w-full h-[380px] object-cover rounded-2xl shadow-md border border-white/50" 
                          alt="Smiling Nepali Artisan">
                 </div>
@@ -200,7 +200,7 @@
     <section class="container mx-auto px-6 md:px-12 max-w-6xl pb-24">
         <div class="relative rounded-3xl overflow-hidden bg-[#241e1c] py-16 px-8 text-center shadow-lg">
             <!-- Subtle warm background image or gradient overlay -->
-            <div class="absolute inset-0 bg-cover bg-center opacity-70" style="background-image: url('5th image.png');"></div>
+            <div class="absolute inset-0 bg-cover bg-center opacity-70" style="background-image: url('Assets/5th image.png');"></div>
             <div class="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-black/60"></div>
             
             <div class="relative z-10 max-w-2xl mx-auto space-y-6">

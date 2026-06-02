@@ -79,7 +79,7 @@
                 <!-- Card 1: Textiles -->
                 <div class="bg-[#FDFBF7] rounded-2xl overflow-hidden shadow-sm border border-amber-900/5 hover:shadow-md transition">
                     <div class="h-64 overflow-hidden bg-slate-100">
-                        <img src="Sweaters.png" alt="Textiles" class="w-full h-full object-cover">
+                        <img src="Assets/Sweaters.png" alt="Textiles" class="w-full h-full object-cover">
                     </div>
                     <div class="p-5">
                         <h4 class="text-slate-500 font-semibold text-[10px] uppercase tracking-wider mb-1">Textile</h4>
@@ -94,7 +94,7 @@
                 <!-- Card 2: Accessories -->
                 <div class="bg-[#FDFBF7] rounded-2xl overflow-hidden shadow-sm border border-amber-900/5 hover:shadow-md transition">
                     <div class="h-64 overflow-hidden bg-slate-100">
-                        <img src="SunGlass.png" alt="Accessories" class="w-full h-full object-cover">
+                        <img src="Assets/SunGlass.png" alt="Accessories" class="w-full h-full object-cover">
                     </div>
                     <div class="p-5">
                         <h4 class="text-slate-500 font-semibold text-[10px] uppercase tracking-wider mb-1">Accessories</h4>
@@ -109,7 +109,7 @@
                 <!-- Card 3: Furniture -->
                 <div class="bg-[#FDFBF7] rounded-2xl overflow-hidden shadow-sm border border-amber-900/5 hover:shadow-md transition">
                     <div class="h-64 overflow-hidden bg-slate-100">
-                        <img src="Table.png" alt="Furniture" class="w-full h-full object-cover">
+                        <img src="Assets/Table.png" alt="Furniture" class="w-full h-full object-cover">
                     </div>
                     <div class="p-5">
                         <h4 class="text-slate-500 font-semibold text-[10px] uppercase tracking-wider mb-1">Furniture</h4>
@@ -124,7 +124,7 @@
                 <!-- Card 4: Pottery -->
                 <div class="bg-[#FDFBF7] rounded-2xl overflow-hidden shadow-sm border border-amber-900/5 hover:shadow-md transition">
                     <div class="h-64 overflow-hidden bg-slate-100">
-                        <img src="Pottery.png" alt="Pottery" class="w-full h-full object-cover">
+                        <img src="Assets/Pottery.png" alt="Pottery" class="w-full h-full object-cover">
                     </div>
                     <div class="p-5">
                         <h4 class="text-slate-500 font-semibold text-[10px] uppercase tracking-wider mb-1">Pottery</h4>
@@ -152,7 +152,7 @@
                 <!-- Category 1: Pottery -->
                 <div class="bg-[#FDFBF7] rounded-2xl overflow-hidden shadow-sm border border-amber-900/5 hover:shadow-md transition group">
                     <div class="h-56 overflow-hidden bg-slate-100">
-                        <img src="Pottery and Ceramics.png" alt="Pottery & Ceramics" class="w-full h-full object-cover">
+                        <img src="Assets/Pottery and Ceramics.png" alt="Pottery & Ceramics" class="w-full h-full object-cover">
                     </div>
                     <div class="p-4 text-center">
                         <h4 class="font-serif text-base font-bold text-brand-dark group-hover:text-brand-primary transition-colors">Pottery & Ceramics</h4>
@@ -162,7 +162,7 @@
                 <!-- Category 2: Textile -->
                 <div class="bg-[#FDFBF7] rounded-2xl overflow-hidden shadow-sm border border-amber-900/5 hover:shadow-md transition group">
                     <div class="h-56 overflow-hidden bg-slate-100">
-                        <img src="Textile and Fabrics.png" alt="Textile & Fabric" class="w-full h-full object-cover">
+                        <img src="Assets/Textile and Fabrics.png" alt="Textile & Fabric" class="w-full h-full object-cover">
                     </div>
                     <div class="p-4 text-center">
                         <h4 class="font-serif text-base font-bold text-brand-dark group-hover:text-brand-primary transition-colors">Textile & Fabric</h4>
@@ -172,7 +172,7 @@
                 <!-- Category 3: Jewelry -->
                 <div class="bg-[#FDFBF7] rounded-2xl overflow-hidden shadow-sm border border-amber-900/5 hover:shadow-md transition group">
                     <div class="h-56 overflow-hidden bg-slate-100">
-                        <img src="Jewlery and Accessory.png" alt="Jewelry & Accessories" class="w-full h-full object-cover">
+                        <img src="Assets/Jewlery and Accessory.png" alt="Jewelry & Accessories" class="w-full h-full object-cover">
                     </div>
                     <div class="p-4 text-center">
                         <h4 class="font-serif text-base font-bold text-brand-dark group-hover:text-brand-primary transition-colors">Jewelry & Accessories</h4>
@@ -182,7 +182,7 @@
                 <!-- Category 4: Home Decor -->
                 <div class="bg-[#FDFBF7] rounded-2xl overflow-hidden shadow-sm border border-amber-900/5 hover:shadow-md transition group">
                     <div class="h-56 overflow-hidden bg-slate-100">
-                        <img src="Home Decor.png" alt="Home Decor" class="w-full h-full object-cover">
+                        <img src="Assets/Home Decor.png" alt="Home Decor" class="w-full h-full object-cover">
                     </div>
                     <div class="p-4 text-center">
                         <h4 class="font-serif text-base font-bold text-brand-dark group-hover:text-brand-primary transition-colors">Home Decor</h4>
@@ -212,7 +212,7 @@
                             -20% off
                         </span>
                         <div class="h-48 overflow-hidden bg-slate-100">
-                            <img src="Sweaters.png" alt="Deal 1" class="w-full h-full object-cover">
+                            <img src="Assets/Sweaters.png" alt="Deal 1" class="w-full h-full object-cover">
                         </div>
                         <div class="p-5">
                             <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -239,7 +239,7 @@
                     <!-- Deal Card 2 -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-amber-950/5 relative hover:shadow-md transition">
                         <div class="h-48 overflow-hidden bg-slate-100">
-                            <img src="SunGlass.png" alt="Deal 2" class="w-full h-full object-cover">
+                            <img src="Assets/SunGlass.png" alt="Deal 2" class="w-full h-full object-cover">
                         </div>
                         <div class="p-5">
                             <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -266,7 +266,7 @@
                     <!-- Deal Card 3 -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-amber-950/5 relative hover:shadow-md transition">
                         <div class="h-48 overflow-hidden bg-slate-100">
-                            <img src="Table.png" alt="Deal 3" class="w-full h-full object-cover">
+                            <img src="Assets/Table.png" alt="Deal 3" class="w-full h-full object-cover">
                         </div>
                         <div class="p-5">
                             <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -293,7 +293,7 @@
                     <!-- Deal Card 4 -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-amber-950/5 relative hover:shadow-md transition">
                         <div class="h-48 overflow-hidden bg-slate-100">
-                            <img src="Pottery.png" alt="Deal 4" class="w-full h-full object-cover">
+                            <img src="Assets/Pottery.png" alt="Deal 4" class="w-full h-full object-cover">
                         </div>
                         <div class="p-5">
                             <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -343,7 +343,7 @@
                                 Featured
                             </span>
                             <div class="h-48 overflow-hidden bg-slate-100">
-                                <img src="Sweaters.png" alt="Featured 1" class="w-full h-full object-cover">
+                                <img src="Assets/Sweaters.png" alt="Featured 1" class="w-full h-full object-cover">
                             </div>
                             <div class="p-5">
                                 <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -370,7 +370,7 @@
                         <!-- Featured Card 2 -->
                         <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-amber-950/5 relative hover:shadow-md transition">
                             <div class="h-48 overflow-hidden bg-slate-100">
-                                <img src="SunGlass.png" alt="Featured 2" class="w-full h-full object-cover">
+                                <img src="Assets/SunGlass.png" alt="Featured 2" class="w-full h-full object-cover">
                             </div>
                             <div class="p-5">
                                 <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -397,7 +397,7 @@
                         <!-- Featured Card 3 -->
                         <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-amber-950/5 relative hover:shadow-md transition">
                             <div class="h-48 overflow-hidden bg-slate-100">
-                                <img src="Table.png" alt="Featured 3" class="w-full h-full object-cover">
+                                <img src="Assets/Table.png" alt="Featured 3" class="w-full h-full object-cover">
                             </div>
                             <div class="p-5">
                                 <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -427,7 +427,7 @@
                                 Featured
                             </span>
                             <div class="h-48 overflow-hidden bg-slate-100">
-                                <img src="Pottery.png" alt="Featured 4" class="w-full h-full object-cover">
+                                <img src="Assets/Pottery.png" alt="Featured 4" class="w-full h-full object-cover">
                             </div>
                             <div class="p-5">
                                 <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -463,7 +463,7 @@
                         <!-- Trending Item 1 -->
                         <div class="flex items-center gap-4 bg-white p-3 rounded-2xl shadow-sm border border-amber-955/5 group transition">
                             <div class="w-16 h-16 rounded-xl overflow-hidden shrink-0 bg-slate-100">
-                                <img src="Sweaters.png" alt="Succulent" class="w-full h-full object-cover">
+                                <img src="Assets/Sweaters.png" alt="Succulent" class="w-full h-full object-cover">
                             </div>
                             <div class="flex-grow">
                                 <h4 class="font-serif text-sm font-bold text-brand-dark group-hover:text-brand-primary transition-colors">Terrarium Garden Kit</h4>
@@ -478,7 +478,7 @@
                         <!-- Trending Item 2 -->
                         <div class="flex items-center gap-4 bg-white p-3 rounded-2xl shadow-sm border border-amber-955/5 group transition">
                             <div class="w-16 h-16 rounded-xl overflow-hidden shrink-0 bg-slate-100">
-                                <img src="SunGlass.png" alt="Succulent" class="w-full h-full object-cover">
+                                <img src="Assets/SunGlass.png" alt="Succulent" class="w-full h-full object-cover">
                             </div>
                             <div class="flex-grow">
                                 <h4 class="font-serif text-sm font-bold text-brand-dark group-hover:text-brand-primary transition-colors">Terrarium Garden Kit</h4>
@@ -493,7 +493,7 @@
                         <!-- Trending Item 3 -->
                         <div class="flex items-center gap-4 bg-white p-3 rounded-2xl shadow-sm border border-amber-955/5 group transition">
                             <div class="w-16 h-16 rounded-xl overflow-hidden shrink-0 bg-slate-100">
-                                <img src="Table.png" alt="Succulent" class="w-full h-full object-cover">
+                                <img src="Assets/Table.png" alt="Succulent" class="w-full h-full object-cover">
                             </div>
                             <div class="flex-grow">
                                 <h4 class="font-serif text-sm font-bold text-brand-dark group-hover:text-brand-primary transition-colors">Terrarium Garden Kit</h4>
@@ -531,7 +531,7 @@
                             -20% off
                         </span>
                         <div class="h-48 overflow-hidden bg-slate-100">
-                            <img src="Sweaters.png" alt="Seller 1" class="w-full h-full object-cover">
+                            <img src="Assets/Sweaters.png" alt="Seller 1" class="w-full h-full object-cover">
                         </div>
                         <div class="p-5">
                             <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -558,7 +558,7 @@
                     <!-- Seller Card 2 -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-amber-955/5 relative hover:shadow-md transition">
                         <div class="h-48 overflow-hidden bg-slate-100">
-                            <img src="SunGlass.png" alt="Seller 2" class="w-full h-full object-cover">
+                            <img src="Assets/SunGlass.png" alt="Seller 2" class="w-full h-full object-cover">
                         </div>
                         <div class="p-5">
                             <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -585,7 +585,7 @@
                     <!-- Seller Card 3 -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-amber-955/5 relative hover:shadow-md transition">
                         <div class="h-48 overflow-hidden bg-slate-100">
-                            <img src="Table.png" alt="Seller 3" class="w-full h-full object-cover">
+                            <img src="Assets/Table.png" alt="Seller 3" class="w-full h-full object-cover">
                         </div>
                         <div class="p-5">
                             <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>
@@ -612,7 +612,7 @@
                     <!-- Seller Card 4 -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-sm border border-amber-955/5 relative hover:shadow-md transition">
                         <div class="h-48 overflow-hidden bg-slate-100">
-                            <img src="Pottery.png" alt="Seller 4" class="w-full h-full object-cover">
+                            <img src="Assets/Pottery.png" alt="Seller 4" class="w-full h-full object-cover">
                         </div>
                         <div class="p-5">
                             <span class="text-slate-400 font-semibold text-[10px] uppercase tracking-wider">Store Name</span>

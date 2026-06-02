@@ -114,7 +114,7 @@
 
                 <!-- Logo -->
                 <a href="index.php" class="flex items-center gap-2.5 group shrink-0">
-                    <img src="logo.jpeg" alt="Hamro Koseli Logo"
+                    <img src="Assets/logo.jpeg" alt="Hamro Koseli Logo"
                         class="w-10 h-10 object-contain rounded-full shadow-md transform group-hover:scale-105 transition duration-300">
                     <div>
                         <div class="font-serif text-lg md:text-xl font-black tracking-wide leading-none text-white"
@@ -201,7 +201,7 @@
     <!-- Drawer header -->
     <div class="flex items-center justify-between px-5 py-4 border-b border-white/10">
         <div class="flex items-center gap-2.5">
-            <img src="logo.jpeg" alt="Hamro Koseli" class="w-9 h-9 rounded-full object-contain">
+            <img src="Assets/logo.jpeg" alt="Hamro Koseli" class="w-9 h-9 rounded-full object-contain">
             <span class="font-serif font-black text-white text-base" style="font-family:'Playfair Display',serif;">HAMRO KOSELI</span>
         </div>
         <!-- Close button -->
