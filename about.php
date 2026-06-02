@@ -42,7 +42,8 @@
 
 <body class="bg-[#F4EAE1] text-brand-dark font-sans leading-relaxed">
 
-    <!-- Header / Navbar will be added here -->
+    <!-- Header / Navbar -->
+    <?php include('header.php'); ?>
 
     <!-- Hero Section (Full-Width, Dark & Immersive) -->
     <section class="relative h-[65vh] min-h-[480px] w-full flex items-center justify-start bg-cover bg-center overflow-hidden" style="background-image: url('1st image.png');">
